@@ -292,6 +292,26 @@ justify-content: space-between;
     margin-left: 15px;
     font-size: 20px;
 }
+#Comments h5{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 60px;
+
+}
+#Comments p{
+    font-size: 20px;
+    
+}
+.card-body2{
+    border-radius: 15px;
+    background-color: #444;
+    padding: 20px;
+    width: 430px;
+    height: 300px;
+    margin: 40px;
+    
+}
+
 
 
 
